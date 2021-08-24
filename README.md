@@ -6,4 +6,5 @@ Was brushing up JS while doing tutorials and all. Created the game as I go and f
 1. Clone or Download the repository:-
 <pre>git clone https://github.com/syedmdanial/snakeGame.git</pre>
 2. Open the folder and run snakeGame.html with your browser.
-3. Have fun reminiscing the good old days.
+<br />
+4. Have fun reminiscing the good old days.
